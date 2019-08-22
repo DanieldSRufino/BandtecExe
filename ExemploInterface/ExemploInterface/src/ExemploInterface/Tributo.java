@@ -20,5 +20,13 @@ public class Tributo {
 			System.out.println(t);
 		}
 	}
+	
+	public double calcularTotalTributo() {
+		double total = 0;
+		for (Tributavel t : lista)  {
+			total += t.getValorTributo();
+		}
+		return total;
+	}
 
 }

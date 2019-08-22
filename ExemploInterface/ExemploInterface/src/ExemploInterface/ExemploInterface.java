@@ -19,7 +19,8 @@ public class ExemploInterface {
 		trib.adicionaTributavel(delivery);
 		
 		trib.exibeTributavel();
-		
+		System.out.println("total de tributos: " +
+							trib.calcularTotalTributo());
 		
 		
 	}
