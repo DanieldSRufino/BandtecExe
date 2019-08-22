@@ -37,6 +37,7 @@ public abstract class Produto {
 		this.descricao = descricao;
 	}
 	public double getPreco() {
+		
 		return preco;
 	}
 	public void setPreco(double preco) {

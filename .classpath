@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AgendaDeObjetivos/.mvn/wrapper"/>
+	<classpathentry kind="src" path="AgendaDeObjetivos/src/main/java"/>
+	<classpathentry kind="src" path="AgendaDeObjetivos/src/test/java"/>
+	<classpathentry kind="src" path="ExemploAbstrata-Completo/ExemploAbstrata/src"/>
+	<classpathentry kind="src" path="ExemploInterface/ExemploInterface/src"/>
+	<classpathentry kind="lib" path="AgendaDeObjetivos/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="ExemploAbstrata-Completo/ExemploAbstrata/bin"/>
+</classpath>
